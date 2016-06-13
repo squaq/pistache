@@ -10,6 +10,7 @@
  */
 angular
   .module('pistacheApp', [
+    '$scope',
     'ngAnimate',
     'ngCookies',
     'ngResource',

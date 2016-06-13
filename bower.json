@@ -12,7 +12,8 @@
     "angular-touch": "^1.4.0"
   },
   "devDependencies": {
-    "angular-mocks": "^1.4.0"
+    "angular-mocks": "^1.4.0",
+    "jquery.min": "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
   },
   "appPath": "app",
   "moduleName": "pistacheApp",
